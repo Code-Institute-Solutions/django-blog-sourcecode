@@ -1,3 +1,4 @@
+**/.vscode/
+.gitpod.dockerfile
+.gitpod.yml
 README.md
-.gitpod.*
-.vscode/*
